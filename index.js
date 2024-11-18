@@ -48,7 +48,7 @@ app.get("/api", function (req, res) {
     res.send(html);
 });
 
-const PORT = 3000;
+const PORT = 3000  || process.env.PORT;
 
 app.listen(PORT, () => {
     console.log(`Server running on http://localhost:${PORT}`);
