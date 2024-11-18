@@ -11,6 +11,9 @@ const db = new Pool({
   database: process.env.DB_NAME,
   password: String(process.env.DB_PASSWORD),
   port: process.env.DB_PORT,
+  ssl: {
+    rejectUnauthorized: false
+  }
 });
 
 export default db;
