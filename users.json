@@ -1,0 +1,67 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Josselin Vanessa Márquez Argueta",
+            "email": "josselin.marquez@ues.edu.sv",
+            "password": "josselin.marquez.$R*V@2024",
+            "career_id": 1
+        },
+        {
+            "id": 2,
+            "name": "César Misael Rodríguez Franco",
+            "email": "cesar.rodriguez@ues.edu.sv",
+            "password": "cesar.rodriguez.$R*V@2024",
+            "career_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Héctor Javier Paiz Ramos",
+            "email": "hector.paiz@ues.edu.sv",
+            "password": "hector.paiz.$R*V@2024",
+            "career_id": 1
+        },
+        {
+            "id": 4,
+            "name": "José Alexander Guandique Flores",
+            "email": "jose.guandique@ues.edu.sv",
+            "password": "jose.guandique.$R*V@2024",
+            "career_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Ligia Astrid Hernández Bonilla",
+            "email": "ligia.hernandez@ues.edu.sv",
+            "password": "ligia.hernandez.$R*V@2024",
+            "career_id": 1
+        },
+        {
+            "id": 6,
+            "name": "Diego Armando Herrera Flores",
+            "email": "diego.herrera@ues.edu.sv",
+            "password": "diego.herrera.$R*V@2024",
+            "career_id": 1
+        },
+        {
+            "id": 7,
+            "name": "Hugo Alexander Ulloa Serpas",
+            "email": "US21003@ues.edu.sv",
+            "password": "hugo.ulloa.$R*V@2024",
+            "career_id": 1
+        },
+        {
+            "id": 8,
+            "name": "John Elvis Arbaiza Velázquez",
+            "email": "AV21019@ues.edu.sv",
+            "password": "john.arbaiza.$R*V@2024",
+            "career_id": 1
+        },
+        {
+            "id": 9,
+            "name": "Angel Gabriel Vasquez Crespo",
+            "email": "VC21007@ues.edu.sv",
+            "password": "angel.vasquez.$R*V@2024",
+            "career_id": 1
+        }
+    ]
+}
