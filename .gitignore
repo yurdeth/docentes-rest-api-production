@@ -1,6 +1,5 @@
 #Files:
 .env
-users.json
 combined.log
 error.log
 
