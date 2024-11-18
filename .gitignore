@@ -1,0 +1,9 @@
+#Files:
+.env
+users.json
+combined.log
+error.log
+
+#Dirs:
+node_modules
+.idea

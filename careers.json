@@ -1,0 +1,162 @@
+{
+    "careers": [
+        {
+            "id": 1,
+            "career_name": "Ingeniería de Sistemas Informáticos",
+            "department_id": 1
+        },
+        {
+            "id": 2,
+            "career_name": "Ingeniería Eléctrica",
+            "department_id": 1
+        },
+        {
+            "id": 3,
+            "career_name": "Ingeniería Mecánica",
+            "department_id": 1
+        },
+        {
+            "id": 4,
+            "career_name": "Arquitectura",
+            "department_id": 1
+        },
+        {
+            "id": 5,
+            "career_name": "Ingeniería Industrial",
+            "department_id": 1
+        },
+
+        {
+            "id": 6,
+            "career_name": "Laboratorio Clínico",
+            "department_id": 2
+        },
+        {
+            "id": 7,
+            "career_name": "Doctorado en Medicina",
+            "department_id": 2
+        },
+        {
+            "id": 8,
+            "career_name": "Anestesiología e Inhaloterapia",
+            "department_id": 2
+        },
+        {
+            "id": 9,
+            "career_name": "Fisioterapia y terapia ocupacional",
+            "department_id": 2
+        },
+
+        {
+            "id": 10,
+            "career_name": "Licenciatura en Inglés",
+            "department_id": 3
+        },
+        {
+            "id": 11,
+            "career_name": "Licenciatura en Psicología",
+            "department_id": 3
+        },
+        {
+            "id": 12,
+            "career_name": "Licenciatura en Educación",
+            "department_id": 3
+        },
+        {
+            "id": 13,
+            "career_name": "Licenciatura en Sociología",
+            "department_id": 3
+        },
+        {
+            "id": 14,
+            "career_name": "Licenciatura en Letras",
+            "department_id": 3
+        },
+        {
+            "id": 15,
+            "career_name": "Licenciatura en Filosofía",
+            "department_id": 3
+        },
+
+        {
+            "id": 16,
+            "career_name": "Licenciatura en Inglés",
+            "department_id": 3
+        },
+
+        {
+            "id": 17,
+            "career_name": "Ingeniería Agronómica",
+            "department_id": 4
+        },
+
+        {
+            "id": 18,
+            "career_name": "Administración",
+            "department_id": 5
+        },
+        {
+            "id": 19,
+            "career_name": "Contaduría Pública",
+            "department_id": 5
+        },
+        {
+            "id": 20,
+            "career_name": "Ciencias Económicas",
+            "department_id": 5
+        },
+
+        {
+            "id": 21,
+            "career_name": "Licenciatura en Ciencias Jurídicas",
+            "department_id": 6
+        },
+
+        {
+            "id": 22,
+            "career_name": "Licenciatura en Biología",
+            "department_id": 7
+        },
+        {
+            "id": 23,
+            "career_name": "Licenciatura en Matemática",
+            "department_id": 7
+        },
+        {
+            "id": 24,
+            "career_name": "Licenciatura en Estadística",
+            "department_id": 7
+        },
+        {
+            "id": 25,
+            "career_name": "Licenciatura en Física",
+            "department_id": 7
+        },
+        {
+            "id": 26,
+            "career_name": "Licenciatura en Biología",
+            "department_id": 7
+        },
+        {
+            "id": 27,
+            "career_name": "Profesorado en Ciencias Naturales",
+            "department_id": 7
+        },
+        {
+            "id": 28,
+            "career_name": "Profesorado en Matemática",
+            "department_id": 7
+        },
+        {
+            "id": 29,
+            "career_name": "Licenciatura en Química",
+            "department_id": 7
+        },
+
+        {
+            "id": 30,
+            "career_name": "Licenciatura en Química y Farmacia",
+            "department_id": 8
+        }
+    ]
+}
